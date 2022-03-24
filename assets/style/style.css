@@ -18,6 +18,9 @@
   background-color: #e2edff;
 }
 
+.skills a h5 {
+  margin-bottom: 30px;
+}
 a {
   color: black;
   text-decoration: none;
